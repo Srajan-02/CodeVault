@@ -69,3 +69,11 @@ Keep learning.
 Keep improving.
 
 **Every solved problem is another step forward. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Srajan-02/CodeVault/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+<!---LeetCode Topics End-->
