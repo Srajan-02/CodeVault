@@ -133,9 +133,22 @@ Keep improving.
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
