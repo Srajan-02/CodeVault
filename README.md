@@ -81,6 +81,7 @@ Keep improving.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Srajan-02/CodeVault/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Srajan-02/CodeVault/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -95,6 +96,7 @@ Keep improving.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Srajan-02/CodeVault/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Srajan-02/CodeVault/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
