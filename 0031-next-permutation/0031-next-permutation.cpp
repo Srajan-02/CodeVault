@@ -7,6 +7,8 @@ public:
         //     cout << it << " ";
         // }
         //approach-02
+        // in a sorted array (n-2) index is where u can have a dip or break point
+        // (1,2,3,4,5) -> (1,2,3,4|5), because from 5 is in increasing order and suddenly 4 is smaller than 5 and so on.....
         int index = -1;
         for(int i = nums.size()-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
