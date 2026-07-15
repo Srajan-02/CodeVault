@@ -95,6 +95,7 @@ Keep improving.
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Srajan-02/CodeVault/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajan-02/CodeVault/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -102,6 +103,7 @@ Keep improving.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajan-02/CodeVault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -158,4 +160,8 @@ Keep improving.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Srajan-02/CodeVault/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
