@@ -11,12 +11,12 @@ public:
         sort(prefixGcd.begin(), prefixGcd.end());
         int left = 0;
         int right = prefixGcd.size()-1;
-        vector<long long>ans;
-        while(left<right){
-            ans.push_back(gcd(prefixGcd[left],prefixGcd[right]));
+        long long sum=0;
+        while (left < right) {
+            sum += gcd(prefixGcd[left], prefixGcd[right]);
             left++;
             right--;
         }
-        return accumulate(ans.begin(),ans.end(),0LL);
+        return sum;
     }
 };
