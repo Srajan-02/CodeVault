@@ -104,6 +104,7 @@ Keep improving.
 | ------- |
 | [0031-next-permutation](https://github.com/Srajan-02/CodeVault/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Srajan-02/CodeVault/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajan-02/CodeVault/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Srajan-02/CodeVault/tree/master/3312-sorted-gcd-pair-queries) |
@@ -183,9 +184,11 @@ Keep improving.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Srajan-02/CodeVault/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Srajan-02/CodeVault/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Srajan-02/CodeVault/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
