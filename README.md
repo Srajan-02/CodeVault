@@ -93,6 +93,7 @@ Keep improving.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Srajan-02/CodeVault/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,4 +211,8 @@ Keep improving.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Srajan-02/CodeVault/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
