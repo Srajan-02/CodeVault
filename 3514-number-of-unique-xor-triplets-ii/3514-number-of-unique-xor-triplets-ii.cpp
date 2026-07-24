@@ -1,6 +1,8 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
+        // APPROACH-01(BRUTE FORCE) -> TLE
+
         // unordered_set<int> uniqueOutputs;
         // int n = nums.size();
         // // Iterating through all possible triplet index combinations
@@ -14,6 +16,9 @@ public:
         // }
         // // return the size of set i.e count
         // return uniqueOutputs.size();
+
+        // APPROACH-2(DOING XOR OF 2 ELEMENTS IN N^2 AND THEN THIRD ELEMENT WITH THE pairXOR vector)
+
         unordered_set<int> pairXor;
         unordered_set<int> ans;
         int n = nums.size();
