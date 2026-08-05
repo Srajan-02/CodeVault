@@ -150,6 +150,7 @@ Keep improving.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajan-02/CodeVault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Srajan-02/CodeVault/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -178,10 +179,12 @@ Keep improving.
 | ------- |
 | [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
