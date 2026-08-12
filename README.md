@@ -126,6 +126,7 @@ Keep improving.
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajan-02/CodeVault/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajan-02/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srajan-02/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Srajan-02/CodeVault/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Srajan-02/CodeVault/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,6 +141,7 @@ Keep improving.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajan-02/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srajan-02/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Srajan-02/CodeVault/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srajan-02/CodeVault/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -293,4 +295,8 @@ Keep improving.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Srajan-02/CodeVault/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajan-02/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
