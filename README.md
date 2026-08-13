@@ -102,6 +102,7 @@ Keep improving.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srajan-02/CodeVault/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Srajan-02/CodeVault/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Srajan-02/CodeVault/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -126,6 +127,7 @@ Keep improving.
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajan-02/CodeVault/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajan-02/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srajan-02/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Srajan-02/CodeVault/tree/master/3312-sorted-gcd-pair-queries) |
@@ -263,6 +265,7 @@ Keep improving.
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Srajan-02/CodeVault/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -299,4 +302,8 @@ Keep improving.
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajan-02/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
