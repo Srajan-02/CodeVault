@@ -103,6 +103,7 @@ Keep improving.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srajan-02/CodeVault/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -114,6 +115,7 @@ Keep improving.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Srajan-02/CodeVault/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Srajan-02/CodeVault/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Srajan-02/CodeVault/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -179,6 +181,7 @@ Keep improving.
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Srajan-02/CodeVault/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Srajan-02/CodeVault/tree/master/2029-stone-game-ix) |
@@ -266,6 +269,7 @@ Keep improving.
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -325,4 +329,8 @@ Keep improving.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
