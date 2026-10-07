@@ -103,6 +103,7 @@ Keep improving.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -215,12 +216,14 @@ Keep improving.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srajan-02/CodeVault/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
