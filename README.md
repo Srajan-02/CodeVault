@@ -105,6 +105,7 @@ Keep improving.
 | [0005-longest-palindromic-substring](https://github.com/Srajan-02/CodeVault/tree/master/0005-longest-palindromic-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srajan-02/CodeVault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srajan-02/CodeVault/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -273,6 +274,7 @@ Keep improving.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srajan-02/CodeVault/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -336,4 +338,5 @@ Keep improving.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Srajan-02/CodeVault/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
