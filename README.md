@@ -152,6 +152,7 @@ Keep improving.
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srajan-02/CodeVault/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srajan-02/CodeVault/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Srajan-02/CodeVault/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Srajan-02/CodeVault/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
