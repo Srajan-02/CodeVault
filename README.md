@@ -129,6 +129,7 @@ Keep improving.
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srajan-02/CodeVault/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Srajan-02/CodeVault/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Srajan-02/CodeVault/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Srajan-02/CodeVault/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajan-02/CodeVault/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Srajan-02/CodeVault/tree/master/1386-cinema-seat-allocation) |
@@ -178,6 +179,7 @@ Keep improving.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Srajan-02/CodeVault/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajan-02/CodeVault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -225,12 +227,14 @@ Keep improving.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Srajan-02/CodeVault/tree/master/0113-path-sum-ii) |
+| [1254-number-of-closed-islands](https://github.com/Srajan-02/CodeVault/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Srajan-02/CodeVault/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Srajan-02/CodeVault/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Srajan-02/CodeVault/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Srajan-02/CodeVault/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -260,6 +264,7 @@ Keep improving.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srajan-02/CodeVault/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/Srajan-02/CodeVault/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Srajan-02/CodeVault/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
